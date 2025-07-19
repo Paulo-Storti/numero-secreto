@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>ℹ️ Sobre</h2>
-<p>Projeto criado para aprender lógica de programação , Git e GitHub</p>
+<p>Projeto criado para aprender lógica de programação, Git e GitHub</p>
 
 
 <h2>🧑‍💻 Tecnologias</h2>
